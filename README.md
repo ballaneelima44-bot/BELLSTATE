@@ -1,6 +1,6 @@
 # Quantum Computing Assignment Part B
 
-**Student Roll Number:** 2025BCY0004
+
 **Repository:** BELLSTATE
 **Assignment:** Quantum Computing and Post-Quantum Cryptography
 
